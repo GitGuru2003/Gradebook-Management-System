@@ -154,14 +154,5 @@ GradeBook/
    gradebook
    ```
 
----
 
-## **Submission**
-Include:
-- `README.md`
-- Source files (`Database.java`, `GradebookShell.java`)
-- SQL files (`schema.sql`, `dump.sql`)
-- Video link demonstrating the application functionality.
-
----
 
